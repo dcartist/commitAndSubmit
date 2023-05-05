@@ -1,5 +1,4 @@
 # Commiting and Submitting homework
-#### [Made by Paula Bannerman with Scribe](https://scribehow.com/shared/Commiting_and_Submitting_homework__P3YfiVyeTCCrfK9c2yscmA)
 
 
 **1. Once you are finished editing your code click on the source icon**
